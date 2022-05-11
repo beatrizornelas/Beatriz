@@ -17,3 +17,4 @@ I have a degree in Law and an MBA in Internal Auditing and Compliance Practice. 
 
 ## Projetos:
 Veja os tutoriais publicados da Beatriz:
+* **Exemplo:** https://exemplo
