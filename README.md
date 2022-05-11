@@ -7,7 +7,7 @@
 # Beatriz Ornelas
 <sub>*Data Scientist student*</sub>
 
-I have a degree in Law and an MBA in Internal Auditing and Compliance Practice. I'm currently studying a technological degree in Database and deepening my knowledge in Python.
+My credentials include a Degree in Law and an MBA in Internal Auditing and Compliance Practice from the Pontifícia Universidade Católica of Minas Gerais. I'm currently studying a Technological Degree in Database from the Pontifícia Universidade Católica of Minas Gerais, and deepening my knowledge in Python.
 
 **Background in:** Python, Big Data and Business Intelligence.
 
